@@ -38,27 +38,27 @@ export const Skills = () => {
                         <p>pelajaran yang saya pelajari dari kelas 10 dan kelas 11<br></br></p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                
                                 <h5>HTMl</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                        
                                 <h5>CSS</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                
                                 <h5>Javascript</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                
                                 <h5>PHP</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                
                                 <h5>LARAVEL</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                
                                 <h5>REACT</h5>
                             </div>
                         </Carousel>
